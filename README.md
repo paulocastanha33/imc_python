@@ -2,6 +2,10 @@
 
 Este é um aplicativo simples de cálculo de IMC (Índice de Massa Corporal) criado com Python e PyQt5. Ele permite calcular o IMC e mostra uma seta indicativa com base na faixa de peso.
 
+## Capturas de Tela
+
+![Página Inicial](images/calculadora.png)
+
 ## Requisitos
 
 - Python 3.x
